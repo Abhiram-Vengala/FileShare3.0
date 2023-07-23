@@ -1,0 +1,20 @@
+.choose{
+    font-size: 1.1em;
+}
+#file-upload{
+    margin-left: 10px;
+}
+.upload{
+    background-color: rgba(255, 255, 255, 0.495);
+    backdrop-filter: blur(2px);
+    height: 20px;
+    width: 100px;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 2px;
+    color: black;
+    border: none;
+}
+.textArea{
+    padding-right: 10px;
+}

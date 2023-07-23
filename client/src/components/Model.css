@@ -1,0 +1,47 @@
+*{
+    text-align: center;
+}
+.shareWith{
+    margin-top: 20px;
+    font-size: 1.2em;
+    color:  #fdfcff;;
+}
+.address1{
+    background-color: rgba(255, 255, 255, 0.495);
+    backdrop-filter: blur(2px);
+    height: 30px;
+    width: 330px;
+    margin-left: 20px;
+    margin-top: 20px;
+    padding-right: 80px;
+    border-radius: 6px;
+    color: black;
+    border: none;
+}
+#SelectNum{
+    background-color: rgba(255, 255, 255, 0.495);
+    backdrop-filter: blur(2px);
+    height: 30px;
+    width: 410px;
+    margin-left: 20px;
+    margin-top: 20px;
+    padding-right: 80px;
+    padding-left: 80px;
+    border-radius: 6px;
+    color: black;
+    border: none;
+}
+.footer{
+    margin-top: 20px;
+
+}
+#cncelbt{
+    background-color: rgba(255, 255, 255, 0.495);
+    backdrop-filter: blur(2px);
+    height: 40px;
+    width: 100px;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: none;
+}

@@ -1,0 +1,24 @@
+
+.App{
+  text-align: center;
+  color: #fdfcff;
+}
+*{
+  background-color: #313131;
+}
+.share{
+  background-color: rgba(255, 255, 255, 0.495);
+  backdrop-filter: blur(2px);
+  height: 40px;
+  width: 100px;
+  margin-left: 20px;
+  margin-top: 20px;
+  border-radius: 6px;
+  border: none;
+}
+h1{
+  font-size: 3em;
+}
+p{
+  font-size: 1.2em;
+}
